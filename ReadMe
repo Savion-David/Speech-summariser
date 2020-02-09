@@ -1,0 +1,15 @@
+Speech Summariser
+
+
+
+It uses python to introduce NLP techniques to summarize text from a output of voice recognition.
+Different types of summarising techniques are used for this too.
+
+A flutter application is used as front end.The front and backend is not connnected.
+App is not built hence and only main.dart,pubsec.yaml,AndroidManifest.xml are only attached with this.
+Android Studio on USB Debugging any Android Device will work.
+
+Inorder to work:
+1.Copy main.dart and replace it in the project folder/main
+2.Replace the pubsec.yaml file in projects directory.
+3.Replace the AndroidManifest.xml file in project folder/app/src/main/
